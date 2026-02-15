@@ -153,8 +153,8 @@ project-folder/
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Link]
-- **Live Streamlit App:** [Link]
+- **GitHub Repository:** [https://github.com/07dhruvsingh/ML_Assignment_2](https://github.com/07dhruvsingh/ML_Assignment_2)
+- **Live Streamlit App:** [https://ml-assignment-2.streamlit.app/](https://ml-assignment-2.streamlit.app/)
 
 ---
 
