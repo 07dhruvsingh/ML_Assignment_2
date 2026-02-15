@@ -1,0 +1,29 @@
+{
+  "name": "Wine Quality Dataset (Combined Red & White)",
+  "source": "UCI Machine Learning Repository",
+  "url": "https://archive.ics.uci.edu/ml/datasets/Wine+Quality",
+  "total_instances": 6497,
+  "total_features": 12,
+  "feature_names": [
+    "fixed_acidity",
+    "volatile_acidity",
+    "citric_acid",
+    "residual_sugar",
+    "chlorides",
+    "free_sulfur_dioxide",
+    "total_sulfur_dioxide",
+    "density",
+    "pH",
+    "sulphates",
+    "alcohol",
+    "wine_type"
+  ],
+  "target_name": "target",
+  "target_description": "Binary: 1 = Good quality (rating >= 7), 0 = Standard quality (rating < 7)",
+  "classes": [
+    "Standard Quality (0)",
+    "Good Quality (1)"
+  ],
+  "train_size": 4256,
+  "test_size": 1064
+}
